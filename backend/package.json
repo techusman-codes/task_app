@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "drizzle-orm": "^0.38.2",
+    "express": "^4.21.2",
+    "pg": "^8.13.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.10.2",
+    "@types/pg": "^8.11.10",
+    "demon": "^0.0.1",
+    "no": "^0.0.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
